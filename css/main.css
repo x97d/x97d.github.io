@@ -2,3 +2,7 @@ body {
     background-color: slategray;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.logo {
+   padding: 10px; 
+}
